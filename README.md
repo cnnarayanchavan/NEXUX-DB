@@ -1,2 +1,2 @@
 # NEXUX-DB
-Database/s
+Database
